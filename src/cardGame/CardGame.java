@@ -1,3 +1,13 @@
+/*
+ * Name: Patricia M. Jameela A., Saira D, 
+ * Date: 09/29/2026
+ * Program: Blackjack Card Game
+ * Creates Card objects and uses them in a simple card game. :)
+ */
+
+
+
+
 package cardGame;
 
 import java.io.File;
